@@ -42,7 +42,6 @@ This is a simple web application that checks whether a given string is a palindr
 
 ## Future Enhancements
 
-- Add dark mode support.
 - Include additional UI/UX improvements.
 - Allow users to check multiple words at once.
 
@@ -52,4 +51,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Developed by **[Your Name]**
+Developed by **Elijah Ackah**
